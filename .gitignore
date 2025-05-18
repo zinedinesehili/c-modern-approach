@@ -1,9 +1,10 @@
 # Ignore compiled files
 *.o
-a.out
+*.out
 *.exe
+a.out
 
 # Ignore editor backup/junk files
 *~
-.DS_Store
 *.swp
+.DS_Store
