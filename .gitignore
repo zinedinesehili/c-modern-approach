@@ -1,0 +1,9 @@
+# Ignore compiled files
+*.o
+a.out
+*.exe
+
+# Ignore editor backup/junk files
+*~
+.DS_Store
+*.swp
